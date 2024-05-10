@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072586314938",
+    "project_id": "login-register-firebase-e2ce1",
+    "storage_bucket": "login-register-firebase-e2ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072586314938:android:73d085706b40ec28299e83",
+        "android_client_info": {
+          "package_name": "com.example.smarton_streetparkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbxQh0i6u97Z1Yi2brC9kGG5TOKzxBoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
